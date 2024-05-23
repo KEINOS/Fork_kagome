@@ -6,4 +6,5 @@ use (
 	./user_dict
 	./wakati
 	./wasm
+	./romaji_transliteration
 )
